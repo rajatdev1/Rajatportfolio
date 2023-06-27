@@ -323,6 +323,19 @@ color: white;
     color: var(--bg-white);
 }
 
+#whatsapp{
+    color: #25D366;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+#mail{
+    color: #BB001B;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+
 .footer_wrapper{
     background-color: rgb(18, 15, 15);
     padding: 20px 0;
